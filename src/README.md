@@ -1,7 +1,7 @@
 # Angular, NodeJS, MongoDB Customers Service
 
 This project provides a look at getting started using Angular Http functionality and how it can be used
-to call a Node.js RESTful service.
+to call a Node.js RESTful service.  
 
 ## Angular Concepts Covered
 
@@ -31,7 +31,7 @@ to call a Node.js RESTful service.
 
 1. Run `npm install` to install app dependencies
 
-1. Run the following Gulp task to copy required Angular modules into the `public` folder:
+1. Run the following Gulp task to copy required Angular modules into the `public` folder: 
 
     `gulp copy:libs`
 
@@ -60,4 +60,5 @@ to call a Node.js RESTful service.
 1. Run `docker-compose up` to run the containers
 
 1. Navigate to http://localhost:3000 if using Docker for Mac/Windows or http://192.168.99.100:3000 if using Docker Toolbox in a browser
+
 

@@ -1,0 +1,11 @@
+project structure
+
+tsconfig has the config to typescript
+
+
+lib (working the data in the app)
+	database handle the connection with mongo
+	dbSeeder fill schemas with fake data
+	configLoader get enviroment configs
+	statesRepository handle crud in state table
+	customersRepository handle crud in customers data
